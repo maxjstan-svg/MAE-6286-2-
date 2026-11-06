@@ -9,4 +9,4 @@ This repository is for working on numerical methods.
 
 ## Interactive learning page
 
-- [Euler's method website](euler-method/index.html) is a self-contained static page with an adjustable step-size demonstration for the ODE `dy/dt = -y`.
+- [Euler's method website](file:///C:/Users/irina/OneDrive/Documents/GitHub/MAE-6286-2-/euler-method/index.html) is a self-contained static page with an adjustable step-size demonstration for the ODE `dy/dt = -y`.
